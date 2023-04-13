@@ -1,0 +1,33 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Rubik+Pixels&display=swap');*/
+
+
+* {
+	margin:0;
+}
+.wrapper {
+	height: 100vh;
+}
+.left-content {
+	display: inline-block;
+	width:400px;
+	background-color: blue;
+	vertical-align: top;
+   /*width:30%;*/
+	height: 100%;
+}
+.right-content{
+	display: inline-block;
+	width:calc(100% - 404px);
+/*	width:70%;*/
+	background-color: green;
+	vertical-align: ;
+	height: 100%;
+}
+
+h1 {
+	font-family: 'RubikPixels';
+}
+p {
+	font-family: 'Inspiration', cursive;
+}

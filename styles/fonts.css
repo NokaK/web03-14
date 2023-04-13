@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "RubikPixels";
+  src: url("../fonts/RubikPixels-Regular.ttf") format("truetype");
+  /*	src: url('../fonts/RubikPixels-Regular.woff2') format('woff2');*/
+}
